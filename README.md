@@ -1,150 +1,362 @@
+<div align="center">
+
 # Hi, I'm Preetinder Singh 👋
 
-### AI/ML & Generative AI | Computer Engineering @ Thapar Institute of Engineering & Technology
+### `AI/ML` • `Generative AI` • `Computer Engineering` • `Research`
 
-I build practical AI systems by combining machine learning, Generative AI, and software engineering. My projects span semantic candidate ranking, RAG-grounded healthcare decision support, explainable AI, and research-oriented graph neural networks.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Engineering+%40+Thapar+%F0%9F%8E%93;Building+Practical+AI%2FML+Systems+%F0%9F%A4%96;Exploring+Generative+AI+%26+RAG+%F0%9F%A7%A0;Researching+Graph+Neural+Networks+%F0%9F%94%AC;Making+AI+Systems+More+Explainable+%26+Trustworthy+%E2%9C%A8" />
 
-🎯 Currently seeking **AI/ML, Generative AI, and research internship opportunities**.
+<p>
+  <a href="https://github.com/PreetinderSingh04">
+    <img src="https://img.shields.io/badge/GitHub-PreetinderSingh04-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/jassal96">
+    <img src="https://img.shields.io/badge/LinkedIn-Preetinder%20Singh-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
-### Building AI systems that are useful, grounded, and explainable.
+</div>
 
 ---
 
-## 🔭 Currently
+## 👨‍💻 About Me
 
-- 🤖 Exploring **Generative AI, LLMs, and Retrieval-Augmented Generation (RAG)**
-- 🧠 Building with **Machine Learning, Deep Learning, NLP, and Explainable AI**
-- 🔬 Researching **uncertainty quantification in Graph Neural Networks**
-- 🏗️ Developing AI systems that combine **ML models with grounded LLM pipelines**
-- 📚 Exploring how AI decision-support systems can become more **explainable and trustworthy**
+```python
+class PreetinderSingh:
+
+    def __init__(self):
+        self.name = "Preetinder Singh"
+        self.role = "Computer Engineering Student"
+        self.university = "Thapar Institute of Engineering & Technology"
+        self.graduation = 2029
+
+        self.focus = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Research"
+        ]
+
+        self.interests = [
+            "LLMs & RAG",
+            "Explainable AI",
+            "Graph Neural Networks",
+            "Uncertainty Quantification"
+        ]
+
+        self.goal = "Build useful, grounded and trustworthy AI systems"
+
+    def say_hi(self):
+        print("Building → Learning → Researching → Improving 🚀")
+```
+
+I'm a **Computer Engineering student at Thapar Institute of Engineering & Technology** building toward a career in **AI/ML and Generative AI**.
+
+My work combines practical machine learning systems with research-oriented experimentation — from **semantic candidate ranking and RAG-grounded decision support** to **graph neural networks for rehabilitation research**.
+
+I'm particularly interested in building AI systems that are not only capable, but also **grounded, explainable, and reliable**.
+
+---
+
+## 🎯 Current Focus
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  🤖  Machine Learning              🧠  Generative AI & LLMs          │
+│                                                                      │
+│  📚  RAG & Embeddings              🔍  Explainable AI                │
+│                                                                      │
+│  🕸️  Graph Neural Networks         📊  Uncertainty Quantification    │
+│                                                                      │
+│  🔬  AI Research                   🏗️  Practical AI Systems          │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-`Python` `C++`
+### 🐍 Languages
 
-### AI / Machine Learning
-`Machine Learning` `Deep Learning` `NLP` `Explainable AI` `SHAP`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-### Generative AI
-`LLMs` `RAG` `Embeddings` `LangChain` `Prompt-Grounded Validation`
+### 🤖 AI / Machine Learning
 
-### Frameworks & Libraries
-`PyTorch` `PyTorch Geometric` `Scikit-learn` `XGBoost` `Streamlit` `Sentence-Transformers`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189C37?style=for-the-badge)
 
-### Data & Infrastructure
-`Pandas` `ChromaDB` `Docker`
+### 🧠 Generative AI
 
-### Developer Tools
-`Git` `GitHub`
+![LLM](https://img.shields.io/badge/LLMs-111111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-4B5563?style=for-the-badge)
 
----
+### 📊 Data / NLP / Explainability
 
-## 🚀 Featured Projects
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-8B5CF6?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-111111?style=for-the-badge)
 
-### 1. AI Candidate Discovery & Ranking System
+### ⚙️ Engineering
 
-**India Runs × H2S × Redrob Hackathon | Team of 3**
-
-Built a semantic candidate discovery and hybrid ranking pipeline for large-scale recruitment data.
-
-- Indexed **24,154 candidate profiles** using BGE-base-en-v1.5 embeddings and ChromaDB.
-- Semantically narrowed candidates to the **top 2,000** for a given job description.
-- Developed a hybrid ranking model using seven signals including semantic similarity, skills, experience, behavioral intelligence, growth, and LLM validation.
-- Generated a final **100-candidate shortlist** per role.
-- Integrated a Groq-hosted Llama model to provide recruiter-style ranking explanations grounded in retrieved candidate data.
-- Added hallucination guardrails and automated career-gap flags.
-- Packaged the system as a **Dockerized Streamlit application**.
-
-**Tech:** `Python` `PyTorch` `Pandas` `Scikit-learn` `LangChain` `ChromaDB` `Sentence-Transformers` `LLMs` `Docker` `Streamlit`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ---
 
-### 2. SahAI — AI-Powered Postnatal Danger-Sign Triage & Escalation Assistant
+# 🚀 Featured Projects
 
-**Cosmicathon 2026 | Team of 3**
+## 🧠 AI Candidate Discovery & Ranking System
 
-Built a voice-first AI decision-support pipeline designed to help community health workers identify and escalate postnatal danger signs.
+```text
+Candidate Profiles (24,154)
+          │
+          ▼
+   BGE Embeddings
+          │
+          ▼
+      ChromaDB
+          │
+          ▼
+   Semantic Retrieval
+          │
+          ▼
+     Top 2,000
+          │
+          ▼
+  Hybrid Ranking Engine
+          │
+          ├── Semantic Similarity
+          ├── Skills
+          ├── Experience
+          ├── Behavioral Intelligence
+          ├── Growth
+          └── LLM Validation
+          │
+          ▼
+    Top 100 Candidates
+          │
+          ▼
+   Grounded LLM Explanation
+```
 
-- Used **Whisper speech-to-text** to capture symptoms and vitals in a worker's local language.
-- Developed an **XGBoost / Random Forest** risk classifier producing Low/Mid/High danger-sign scores.
-- Applied **SHAP** to explain model predictions feature-by-feature.
-- Built a **RAG-grounded LLM layer** using WHO 2022 postnatal-care guideline excerpts.
-- Designed follow-up questioning and explanation around retrieved evidence rather than open-ended LLM generation.
-- Added a rule-based escalation engine for high-risk cases and a risk-sorted supervisor dashboard.
+Built during the **India Runs (H2S × Redrob) Hackathon** as a team of 3.
 
-**Tech:** `Python` `XGBoost` `Random Forest` `SHAP` `RAG` `LLMs` `ChromaDB` `Whisper`
+The system processes **24,154 candidate profiles**, uses embeddings and vector search to narrow the candidate pool, and applies a seven-signal hybrid ranking system to generate a final shortlist.
 
----
+A Groq-hosted Llama model generates recruiter-style explanations grounded in retrieved candidate information, with safeguards against unsupported claims.
 
-### 3. BioGAT-Rehab — Physics-Informed Graph Attention Network
-
-**Ongoing Research | Solo**
-
-Research proposal exploring graph-based deep learning for rehabilitation assessment.
-
-- Proposing a **spatiotemporal GATv2 + temporal-attention/GRU architecture**.
-- Designing an anatomically constrained skeleton graph with exercise-specific edge weighting.
-- Exploring **MC-Dropout-based uncertainty estimation** for epistemic and aleatoric uncertainty.
-- Designing an ablation study and cross-dataset evaluation using **KIMORE and UI-PRMD**.
-- Targeting a workshop / Tier-2 conference research submission.
-
-**Tech:** `PyTorch` `PyTorch Geometric` `Graph Neural Networks` `GATv2` `GRU` `Deep Learning`
-
----
-
-## 🤖 AI / ML Interests
-
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation
-- Natural Language Processing
-- Explainable AI
-- Graph Neural Networks
-- Uncertainty Quantification
-- AI Decision-Support Systems
+**Stack:** `Python` `PyTorch` `Scikit-learn` `Pandas` `Sentence-Transformers` `ChromaDB` `LangChain` `LLMs` `Docker` `Streamlit`
 
 ---
 
-## 🔬 Research Interests
+## 🩺 SahAI — AI-Powered Postnatal Danger-Sign Triage
 
-- **Graph Neural Networks** for human movement and rehabilitation
-- **Uncertainty quantification** in deep learning systems
-- **Retrieval-Augmented Generation** for grounded LLM applications
-- **Explainable and trustworthy AI**
-- AI systems designed for **auditable decision support**
+```text
+Local-Language Voice
+        │
+        ▼
+     Whisper
+        │
+        ▼
+Symptoms + Vitals
+        │
+        ├───────────────┐
+        ▼               ▼
+  ML Risk Model       RAG Layer
+ XGBoost / RF       WHO Guidelines
+        │               │
+        ▼               ▼
+   Risk Score       Grounded Context
+        │               │
+        └───────┬───────┘
+                ▼
+       Explainable Decision
+                │
+                ▼
+       Escalation Engine
+                │
+                ▼
+        Supervisor / Nurse
+```
+
+Built during **Cosmicathon 2026** as a team of 3.
+
+SahAI is a voice-first AI decision-support system designed around postnatal danger-sign triage. It combines machine learning, SHAP-based explanations, speech recognition, and a RAG-grounded LLM layer using WHO postnatal-care guidance.
+
+High-risk cases are automatically surfaced through a rule-based escalation workflow.
+
+**Stack:** `Python` `XGBoost` `Random Forest` `SHAP` `RAG` `LLMs` `Whisper` `ChromaDB`
 
 ---
 
-## 🏆 Highlights
+## 🕸️ BioGAT-Rehab — Physics-Informed Graph Attention Network
 
-- 🧠 Building AI systems across **recruitment, healthcare, and rehabilitation research**
-- 🏆 Participant in **India Runs × H2S × Redrob Hackathon**
-- 🚀 Participant in **Cosmicathon 2026**
-- 🔬 Conducting independent research through the **BioGAT-Rehab** project
-- 🎓 B.E. Computer Engineering student at **Thapar Institute of Engineering & Technology**
-- 👥 Core Member of **Cognitia Student Research Society**
-- 📢 Member of **ISTE — Marketing & Public Outreach**
-- 🎨 Member of **Society of Intelligent Systems — Design**
+```text
+Human Skeleton
+      │
+      ▼
+Anatomically-Constrained
+      Graph
+      │
+      ▼
+     GATv2
+      │
+      ▼
+Temporal Attention / GRU
+      │
+      ▼
+Rehabilitation Assessment
+      │
+      ▼
+Uncertainty Head
+ ┌───────────────┐
+ │ Epistemic     │
+ │ Aleatoric     │
+ └───────────────┘
+      │
+      ▼
+Low Confidence → Clinician Review
+```
+
+An ongoing solo research project exploring **spatiotemporal graph neural networks for rehabilitation assessment**.
+
+The proposed architecture combines GATv2, temporal attention/GRU components, anatomically constrained skeleton graphs, and MC-Dropout-based uncertainty estimation.
+
+The research design includes an ablation ladder and cross-dataset evaluation using **KIMORE and UI-PRMD**.
+
+**Stack:** `PyTorch` `PyTorch Geometric` `GATv2` `GRU` `Graph Neural Networks` `Deep Learning`
 
 ---
 
-## 📊 GitHub
+# 🤖 AI / ML Interests
 
-I use GitHub to document projects, experiment with AI/ML systems, and continuously improve my engineering skills.
+| Area                | Focus                                            |
+| ------------------- | ------------------------------------------------ |
+| 🧠 Machine Learning | Predictive modeling & practical ML systems       |
+| 🤖 Generative AI    | LLM-powered applications                         |
+| 📚 RAG              | Grounded retrieval + generation                  |
+| 🔍 Explainable AI   | SHAP & interpretable decisions                   |
+| 🕸️ Graph ML        | Graph Neural Networks & GAT architectures        |
+| 📊 Uncertainty      | Epistemic & aleatoric uncertainty                |
+| 🗣️ NLP             | Embeddings, semantic retrieval & language models |
 
 ---
 
-## 🤝 Connect With Me
+# 🔬 Research Direction
 
-- 💼 [LinkedIn](https://linkedin.com/in/jassal96)
-- 💻 [GitHub](https://github.com/PreetinderSingh04)
-- 📧 [Email](mailto:psingh_be25@thapar.edu)
+I'm particularly interested in the intersection of:
+
+```text
+        AI
+        │
+   ┌────┴────┐
+   │         │
+Trust      Intelligence
+   │         │
+   ▼         ▼
+Explainable  Generative
+   AI           AI
+   │             │
+   └──────┬──────┘
+          ▼
+    Reliable AI Systems
+```
+
+### Areas I'm exploring
+
+* Graph Neural Networks for human movement and rehabilitation
+* Uncertainty quantification in deep learning
+* Retrieval-Augmented Generation for grounded LLM applications
+* Explainable AI and trustworthy decision support
+* AI systems designed for auditable real-world use
 
 ---
 
-### ⚡ Building → Learning → Researching → Improving
+# 🏆 Highlights
+
+* 🎓 **B.E. Computer Engineering** — Thapar Institute of Engineering & Technology
+* 🧠 **AI Candidate Discovery & Ranking System** — India Runs × H2S × Redrob Hackathon
+* 🩺 **SahAI** — Cosmicathon 2026
+* 🔬 **BioGAT-Rehab** — Ongoing independent research
+* 👥 **Core Member** — Cognitia Student Research Society
+* 📢 **Member** — Indian Society for Technical Education (ISTE)
+* 🧠 **Member** — Society of Intelligent Systems
+
+---
+
+# 📈 My Learning Trajectory
+
+```text
+Computer Engineering
+        │
+        ▼
+ Programming & Software Foundations
+        │
+        ▼
+ Machine Learning
+        │
+        ▼
+ Deep Learning
+        │
+        ├───────────────┐
+        ▼               ▼
+ Generative AI       Graph ML
+        │               │
+        ▼               ▼
+   LLMs + RAG       GNN Research
+        │               │
+        └───────┬───────┘
+                ▼
+       Explainable & Reliable
+             AI Systems
+```
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PreetinderSingh04&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreetinderSingh04&layout=compact&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/jassal96">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:psingh_be25@thapar.edu">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PreetinderSingh04">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building intelligent systems. Exploring research. Learning by shipping. 🚀
+
+</div>
