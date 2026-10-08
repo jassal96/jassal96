@@ -1,16 +1,15 @@
 <div align="center">
 
-# PREETINDER SINGH
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,35:203A43,70:2C5364,100:00C6FF&height=190&section=header&text=PREETINDER%20SINGH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=AI%2FML%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20RESEARCH&descSize=17&descAlignY=68&descAlign=50" width="100%"/>
 
-### `AI/ML` • `Generative AI` • `Research`
+<br>
 
-<p>
-  <b>Computer Engineering Student @ Thapar Institute of Engineering & Technology</b>
-</p>
+### `Computer Engineering @ Thapar Institute of Engineering & Technology`
 
 <p>
-  Building practical AI systems across <b>Machine Learning</b>, <b>LLMs</b>, <b>RAG</b>,
-  <b>Explainable AI</b> and <b>Graph Neural Networks</b>.
+Building practical AI systems across
+<b>Machine Learning</b> • <b>Generative AI</b> • <b>RAG</b> •
+<b>Explainable AI</b> • <b>Graph Neural Networks</b>
 </p>
 
 <br>
@@ -204,7 +203,7 @@ class PreetinderSingh:
                   ▼
         ┌───────────────────┐
         │  ML Risk Engine   │
-        │ XGBoost / RF       │
+        │ XGBoost / RF      │
         └─────────┬─────────┘
                   │
                   ▼
@@ -375,8 +374,6 @@ class PreetinderSingh:
 
 > **The model is only one component of a useful AI system.**
 
-I am especially interested in systems that are:
-
 `Grounded` • `Explainable` • `Evaluated` • `Reliable` • `Human-aware`
 
 ---
@@ -457,6 +454,7 @@ Uncertainty-Aware AI
 <a href="https://linkedin.com/in/jassal96">
   <img src="https://img.shields.io/badge/LinkedIn-jassal96-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:psingh_be25@thapar.edu">
   <img src="https://img.shields.io/badge/Email-psingh__be25%40thapar.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -470,4 +468,3 @@ Uncertainty-Aware AI
 <sub>Learning AI by building AI systems.</sub>
 
 </div>
-```
